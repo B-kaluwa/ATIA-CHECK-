@@ -1,0 +1,146 @@
+<resources>
+    <string name="app_name">Myinterface</string>
+    <string name="terms_and_conditions">Terms and conditions</string>
+    <string name="contact_info">Contact info</string>
+    <string name="setting">Settings</string>
+    <string name="todo_list">TODO list</string>
+    <string name="select_t">Select Transaction</string>
+    <string name="dashboard">Dash board</string>
+    <string name="profile">Profile</string>
+    <string name="payments">Payments</string>
+    <string name="credit_debt_cash_transactions"><![CDATA[Credit , Debt & Cash transactions]]></string>
+    <string name="terms">
+        \nWelcome to Android Tracker Investment Application. Before you use this application, we encourage you to carefully read and understand our Terms and Conditions to ensure that you agree and accept to its contents. By using this application, you are agreeing to be bound by these Terms and Conditions and all applicable laws and regulations.
+        \n\n 1.Use of the Application: \n
+Android Tracker Investment Application is a financial application that allows users to track their investments. This application is intended for personal and non-commercial use only. You are prohibited from using the application for any illegal or fraudulent activities. You are required to provide accurate and truthful information when using this application.
+        \n\n 2.Privacy Policy:\n
+We value your privacy and are committed to protecting your personal information. Please read our Privacy Policy that covers how we collect, use, and disclose your information. By using this application, you agree to our Privacy Policy.
+        \n\n 3.Intellectual Property:\n
+This application and its contents are protected by intellectual property laws and are the property of Android Tracker Investment Application. You may not use, reproduce, modify, distribute, or disclose any part of this application without our prior written consent.
+        \n\n 4.Limitation of Liability:\n
+Android Tracker Investment Application shall not be liable for any direct, indirect, incidental, or consequential damages that arise from the use of this application. You agree to use this application at your own risk.
+        \n\n 5.Disclaimer:\n
+This application provides investment information for educational purposes only. This information is not intended as investment advice or a recommendation to buy or sell any securities. The investment information provided is obtained from sources believed to be reliable but is not guaranteed.
+        \n\n 6.Termination:\n
+We reserve the right to terminate this agreement or your use of the application at any time without notice.
+        \n\n 7.Governing Law and Jurisdiction:\n
+This agreement shall be governed by the laws of the state/country where Android Tracker Investment Application is located. Any dispute arising from the use of this application shall be resolved in the courts of the said state/country.
+        \n\n 8.Amendments:\n
+We reserve the right to update and modify these Terms and Conditions at any time without notice. By continuing to use this application, you agree to be bound by the updated Terms and Conditions.
+        \n\n
+        Thank you for using Android Tracker Investment Application.
+        \n
+
+
+    </string>
+    <string name="privacy">
+        \nPrivacy Policy Statement for Android Tracker Investment Application
+        \nAt Android Tracker Investment Application, we are committed to protecting the privacy rights of our users. This privacy policy statement outlines how we collect, use, and share your personal information when you use our application.
+\n
+Information We Collect\n
+        \nWe collect the following information from our users:
+        \nAccount Information: When you register for an account in our application, we collect your name, email address, and password.
+\nTransaction Information: \nWhen you make an investment in our application, we collect information about your investment history, including the transaction date, amount, and type of investment.
+\nDevice Information: \nWe collect information about the device you use when you access our application, including the device model, operating system, and version number.
+\nUsage Information: \nWe collect information about how you use our application, including which features you use, how often you use them, and how long you spend on our application.
+        \nHow We Use Your Information
+\n\n
+We use your personal information for the following purposes:
+        \nTo provide you with our application services:\n We use your account information to create and maintain your user profile and transaction information to manage your investments.
+\nTo improve our application:\n We use your usage information to understand how users interact with our application and identify areas for improvement.
+\nTo communicate with you: \nWe may use your email address to send you updates about our application, such as new features or promotions.
+\nTo comply with legal requirements: \nWe may disclose your personal information if we are required to do so by law or if we believe that such disclosure is necessary to protect our rights, property, or safety.
+        \nHow We Share Your Information
+
+\n\nWe do not sell or rent your personal information to third parties. However, we may share your information with the following categories of third parties:
+        \nService Providers:\n We may share your information with third-party vendors who provide services to us, such as hosting our application, processing payments, or analyzing usage data.
+Legal Authorities: \nWe may disclose your personal information if required to do so by law or if we believe that such disclosure is necessary to protect our rights, property, or safety.
+        \n\nYour Rights
+
+You have the right to access and control your personal information. You can access and update your account information and transaction history within the application. If you have any questions or concerns about the way we process your personal information or would like to request that we delete your information, please contact us at kaluwaprincem@gmail.com.
+        \nChanges to This Policy
+
+We may update this policy from time to time to reflect changes in our practices or legal requirements. We will notify you of any significant changes to this policy by sending an email to the email address associated with your account or by posting a notice within the application.
+        \nContact Us
+
+If you have any questions or concerns about our privacy practices, please contact us at kaluwaprincem@gmail.com.
+        \n\n
+        Thanks for reading the agreement.....
+        \n\n
+    </string>
+    <string name="transactions">TRANSACTIONS</string>
+    <string name="guide">
+        \n\n currently in progress
+    </string>
+    <string name="conclusion">
+        \n this is the additional information\n
+       \n African Stock Exchange - Offers resources and training courses on investing in African stock markets.
+\n
+Investopedia - Provides a comprehensive guide to investing in Africa, including tips and strategies.
+\n
+African Securities Exchanges Association - Offers information on African stock market trends and news.
+\n
+African Development Bank Group - Provides information and resources for investing in Africa, including investment projects and strategies.
+\n
+Business Insider Africa - Offers news and analysis on African markets and investments.
+\n
+African Business Magazine - Provides in-depth analysis and insights on investing in Africa, including profiles of top African companies and industries.
+\n
+African Investment Forum - Hosts an annual investment forum aimed at connecting investors with African businesses and projects.
+\n
+The African Private Equity and Venture Capital Association - Offers resources and insights on private equity and venture capital investing in Africa.
+\n
+AfricaInvestor - Provides news and analysis on African investments and markets, as well as investment guides and directories.
+\n
+Vanguard Africa - Offers investment research and advisory services focused on African markets.
+\n
+        \nRobinhood: A commission-free trading platform that allows users to invest in stocks, ETFs, and cryptocurrency.
+\n
+TD Ameritrade: Offers a variety of investment options, including stocks, bonds, mutual funds, and ETFs.
+\n
+Morningstar: Provides professional investment analysis and research reports, including stock ratings and expert insights.
+\n
+Zacks Investment Research: Offers investment research and reports on stocks, mutual funds, and ETFs.
+\n
+Bloomberg: Provides real-time financial news, market data, and investment analysis.
+\n
+Yahoo Finance: Offers investment news, stock quotes, and insights on stocks, funds, and ETFs.
+\n
+E-Trade: Offers a variety of investment options, including stocks, bonds, mutual funds, ETFs, and futures.
+\n
+Wealthfront: An automated investment platform that uses AI to manage portfolios and help users achieve their financial goals.
+\n
+Ally Invest: Offers commission-free trading on stocks, options, and ETFs, with no account minimums.
+\n
+Fundrise: An online real estate investment platform that allows investors to pool their money together to invest in commercial real estate projects.
+        \n
+    </string>
+    <string name="privacy_policy">Privacy policy</string>
+    <string name="if_the_terms_and_conditions_where_agreed_to_then_the_above_policy_is_included_also">if the terms and conditions where agreed to then the above policy is included also</string>
+    <string name="privacy_policy1">Privacy policy</string>
+    <string name="android_tracker_investment_application">ANDROID TRACKER INVESTMENT APPLICATION</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="user_manual">User manual</string>
+    <string name="logout">LOGOUT</string>
+    <string name="add_asset">ADD ASSET</string>
+    <string name="portfolio">Portfolio</string>
+    <string name="online_work">online work</string>
+    <string name="exit_app">Exit App..</string>
+</resources>

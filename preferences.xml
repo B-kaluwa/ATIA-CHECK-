@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory
+        android:title="General">
+        <SwitchPreference
+            android:key="theme_preference"
+            android:defaultValue="true"
+            android:title="Dark Theme"/>
+        <CheckBoxPreference
+            android:defaultValue="true"
+            android:key="g_auto_load_link"
+            android:summary="when scanning or clicking weblink QR automatically open"
+            android:title="Automatically open weblinks"/>
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:title="Notifications">
+
+        <SwitchPreference
+            android:key="enable_notification"
+            android:title="Push notifications"
+            android:enabled="true"
+            android:summary="This will enable notifications"
+            />
+    <RingtonePreference
+        android:key="key_notification_ringtone"
+        android:title="Notification ringtone"
+        android:summary="Choose notification sound"
+        android:ringtoneType="notification"
+        />
+
+    </PreferenceCategory>
+    <PreferenceCategory
+        android:title="About">
+        <Preference
+            android:key="version"
+            android:title="version"
+        android:summary="1.0.0" />
+        <Preference
+            android:key="contact_preference"
+            android:title="About Us"
+            android:summary="contact info can be found in the terms and conditions section"
+            />
+
+    </PreferenceCategory>
+</PreferenceScreen>
+
