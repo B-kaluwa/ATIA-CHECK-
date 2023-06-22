@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true"
+    android:background="#162681"
+    tools:context=".AddAsset">
+
+
+    <androidx.appcompat.widget.LinearLayoutCompat
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background="#162681"
+        tools:context=".AddAsset">
+        >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:gravity="center"
+        android:id="@+id/page_title1"
+        android:text="Add new Asset"
+        android:textColor="#FDF9F9"
+        android:textSize="25dp"
+        android:textStyle="bold" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:layout_marginLeft="20dp"
+        android:background="@drawable/rounded_corners"
+        android:orientation="vertical"
+        android:padding="20dp">
+
+        <EditText
+            android:id="@+id/asset_title_text"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:layout_margin="16dp"
+            android:autofillHints=""
+            android:background="#707AAE"
+            android:hint="Name (name your Asset) "
+            android:padding="10dp"
+            android:textSize="20dp"
+            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox.ExposedDropdownMenu"
+            >
+
+        </EditText>
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:layout_margin="16dp"
+            android:autofillHints=""
+            android:background="#707AAE"
+            android:hint="type of asset"
+            android:padding="10dp"
+            android:textSize="20dp"
+            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox.ExposedDropdownMenu"
+            >
+
+            <AutoCompleteTextView
+                android:id="@+id/auto_type_text"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:inputType="none"
+                />
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <EditText
+            android:id="@+id/asset_amount_text"
+            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox.ExposedDropdownMenu"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:layout_margin="16dp"
+            android:autofillHints=""
+            android:background="#707AAE"
+            android:hint="Enter Amount invested (Capital)"
+            android:inputType="number"
+            android:padding="10dp"
+            android:textSize="20dp">
+
+        </EditText>
+
+        <EditText
+            android:id="@+id/asset_date_text"
+            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox.ExposedDropdownMenu"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:layout_margin="16dp"
+            android:autofillHints=""
+            android:background="#707AAE"
+            android:hint="Enter the date the Asset was created or acquired "
+            android:padding="10dp"
+            android:textSize="20dp">
+
+        </EditText>
+
+        <EditText
+            android:id="@+id/asset_detail_text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:background="#707AAE"
+            android:gravity="top"
+            android:hint="Description / other details"
+            android:lines="10"
+            android:padding="10dp" />
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/save_asset_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:backgroundTint="@color/white"
+        android:text="Save Asset"
+        android:textColor="#10207A" />
+
+    <TextView
+        android:id="@+id/delete_asset_text_view_btn"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:gravity="center"
+        android:text="Delete Asset"
+        android:textColor="#FF0000"
+        android:textStyle="bold"
+        android:textSize="18sp"
+        android:visibility="invisible" />
+
+    </androidx.appcompat.widget.LinearLayoutCompat>
+
+</ScrollView>
